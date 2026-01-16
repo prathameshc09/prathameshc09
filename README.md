@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Final-year Computer Science student at VIT with hands-on experience in Machine Learning, Backend Development, and Full-Stack systems. Passionate about building real-world AI products, scalable APIs, and data-driven applications.
+Final-year Computer Science and Engineering student at VIT with hands-on experience in Machine Learning, Backend Development, and Full-Stack systems. Passionate about building real-world AI products, scalable APIs, and data-driven applications.
 
 
 ## 🌐 Socials:
